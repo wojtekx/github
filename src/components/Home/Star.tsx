@@ -1,0 +1,5 @@
+const Star = () => (
+  <img alt='img' src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QA/wD/AP+gvaeTAAAA2klEQVQoka2PvU7CcBTFf6fp0uAMDiwMNXXHGk1AHMB3cbWTbiQuDo7MvIY6CAkhsU/wD7wA7LI1vS5lKLa6cLZ7z1cOHAOWRteWnverOL/GMgYMGB4y+iX9iq4QSwC8vKfualEy2LId4DduMIXAGeIOCAt+jfEGrJCtyXZzFanPiMc/h4lXui7xAHTpnoBxvdhedOEeJKy0wdLovWLoh2I32h/eQW2rIr9ZluzTPwc+jc03kAOT4n0PeOxOT3Q7y8oNwbaDMSXLQ8UuUewSsjzEmBJsO7X7/sMPRpE/CAtlXegAAAAASUVORK5CYII=" />
+);
+
+export default Star;
